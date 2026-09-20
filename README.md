@@ -8,8 +8,8 @@
 
 | Keterangan | Data |
 |---|---|
-| **Nama** | [Ahmad Fajar Novia] |
-| **NIM** | [Ahmad Fajar Novia] |
+| **Nama** | Ahmad Fajar Noiva |
+| **NIM** | 2509116041 |
 | **Mata Kuliah** | Pemrograman Berorientasi Objek |
 
 ---
